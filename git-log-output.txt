@@ -1,0 +1,28 @@
+commit 54f0ffb558d943ef8556cbb6dc3457031ba4794f
+Author: jcq2-it114-001 <jcq2@njit.edu>
+Date:   Fri Sep 26 02:53:51 2025 -0400
+
+    Revert "hostname note commit"
+    
+    This reverts commit e4c644a0b98dcf4a37687b1093473efa9fdb9623.
+
+commit e4c644a0b98dcf4a37687b1093473efa9fdb9623
+Author: jcq2-it114-001 <jcq2@njit.edu>
+Date:   Fri Sep 26 02:52:08 2025 -0400
+
+    hostname note commit
+    made a comment using nano ~/Lab_3/hostname
+
+commit 4fb26296a4a179130c3ae5c58ff57d150f308c94
+Author: jcq2-it114-001 <jcq2@njit.edu>
+Date:   Fri Sep 26 02:10:50 2025 -0400
+
+    first change
+    appended the output to the os-release file iwth echo"#/message>" >> os-release
+
+commit d61fa93a2173cc3d6b1fc951cfe19cfb4b98dc3e
+Author: jcq2-it114-001 <jcq2@njit.edu>
+Date:   Fri Sep 26 02:03:58 2025 -0400
+
+    initial commit
+    added files with git add <filename>
